@@ -43,7 +43,7 @@ FATE单机部署指南
 有些用例算法在 `examples <../../examples/federatedml-1.x-examples>`__
 文件夹下, 请尝试使用。
 
-您还可以通过浏览器体验算法过程看板，访问：Http://hostip:8080。
+您还可以通过浏览器体验算法过程看板，访问：http://hostip:8080。
 
 2) 在主机中安装FATE
 ^^^^^^^^^^^^^^^^^^^
